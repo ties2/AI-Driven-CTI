@@ -1,0 +1,7 @@
+[
+    {"id": 1, "threat_type": "phishing", "source_ip": "192.168.1.10", "timestamp": "2025-04-01", "severity": 8, "description": "Suspicious email link"},
+    {"id": 2, "threat_type": "malware", "source_ip": "10.0.0.5", "timestamp": "2025-04-02", "severity": 6, "description": "Trojan detected"},
+    {"id": 3, "threat_type": "phishing", "source_ip": "172.16.0.3", "timestamp": "2025-04-03", "severity": 9, "description": "Fake login page"},
+    {"id": 4, "threat_type": "recon", "source_ip": "203.0.113.7", "timestamp": "2025-04-04", "severity": 4, "description": "Port scanning"},
+    {"id": 5, "threat_type": "malware", "source_ip": "198.51.100.2", "timestamp": "2025-04-05", "severity": 7, "description": "Ransomware attempt"}
+]
