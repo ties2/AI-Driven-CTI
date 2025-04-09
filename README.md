@@ -21,11 +21,30 @@ This project serves as a proof-of-concept for bridging CTI expertise with AI-dri
 
 ### Prerequisites
 - Python 3.8+
-- Git installed
-- A GitHub account (for contributing or forking)
+
 
 ### Setup
 1. **Clone the Repository**:
 ```bash
 git clone https://github.com/yourusername/cti-risk-analyzer.git
 cd cti-risk-analyzer
+
+###Sample
+```bash
+Loaded CTI Data:
+    id threat_type     source_ip   timestamp  severity            description
+0   1    phishing  192.168.1.10  2025-04-01         8  Suspicious email link
+1   2     malware      10.0.0.5  2025-04-02         6        Trojan detected
+2   3    phishing    172.16.0.3  2025-04-03         9        Fake login page
+3   4       recon   203.0.113.7  2025-04-04         4          Port scanning
+4   5     malware  198.51.100.2  2025-04-05         7     Ransomware attempt
+Model Accuracy: 0.00
+
+=== Customer Hacking Risk Report ===
+Based on recent threat intelligence, here are your potential risks:
+- malware: HIGH risk (Avg Severity: 6.5/10)
+- phishing: HIGH risk (Avg Severity: 8.5/10)
+- recon: LOW risk (Avg Severity: 4.0/10)
+```
+
+![Risk Chart](sample dashboard1.jpg)
