@@ -31,7 +31,7 @@ cd cti-risk-analyzer
 ```
 
 
-###Sample
+Sample
 ```bash
 Loaded CTI Data:
     id threat_type     source_ip   timestamp  severity            description
