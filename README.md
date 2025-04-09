@@ -47,4 +47,4 @@ Based on recent threat intelligence, here are your potential risks:
 - recon: LOW risk (Avg Severity: 4.0/10)
 ```
 
-![Risk Chart](sample dashboard1.jpg)
+![Risk Chart](sample-dashboard1.jpg)
