@@ -28,6 +28,8 @@ This project serves as a proof-of-concept for bridging CTI expertise with AI-dri
 ```bash
 git clone https://github.com/ties2/AI-Driven-CTI.git
 cd cti-risk-analyzer
+```
+
 
 ###Sample
 ```bash
