@@ -46,5 +46,3 @@ Based on recent threat intelligence, here are your potential risks:
 - phishing: HIGH risk (Avg Severity: 8.5/10)
 - recon: LOW risk (Avg Severity: 4.0/10)
 ```
-
-![Risk Chart](sample-dashboard1.jpg)
