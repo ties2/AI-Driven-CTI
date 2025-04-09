@@ -1,6 +1,6 @@
 # CTI Risk Analyzer
 
-![Risk Chart](risk_chart.png)
+![Risk Chart](AI-CTI.jpg)
 
 **A Python-based tool leveraging Cyber Threat Intelligence (CTI) and AI to assess and visualize hacking risks for customers.**
 
