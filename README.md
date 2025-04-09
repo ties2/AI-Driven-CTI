@@ -26,7 +26,7 @@ This project serves as a proof-of-concept for bridging CTI expertise with AI-dri
 ### Setup
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/cti-risk-analyzer.git
+git clone https://github.com/ties2/AI-Driven-CTI.git
 cd cti-risk-analyzer
 
 ###Sample
